@@ -34,3 +34,21 @@
 .preview-container___fight-btn.disabled {
   opacity: 0;
 }
+
+.fighter-preview___description {
+  background-color: rgba(54, 53, 53, 0.795);
+  width: 150px;
+  height: 200px;
+  border-radius: 30px;
+  border: 3px solid rgba(255, 0, 0, 0.185);
+  font-size: 18px;
+  color: white;
+  text-align: center;
+  font-weight: 800;
+  line-height: 30px;
+}
+
+.fighter-preview___img {
+  max-height: 400px;
+  min-height: 400px;
+}
